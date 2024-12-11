@@ -43,10 +43,9 @@ SELECT CONCAT (e.Fname, ' ', e.Minit, ' ', e.Fname) AS Funcionario,
 13. Mescle os nomes de departamentos e localização. Isso fará que cada combinação departamento-local seja único. Isso irá auxiliar na criação do modelo estrela em um módulo futuro. ✓
 
 14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. ✓
-<br>
+
 _R: Mesclar serve para unir colunas de duas tabelas._
 15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente ✓
-<br>
 
 ```
 SELECT m.Fname AS Gerente, COUNT(e.Ssn) AS Numero_de_Colaboradores
