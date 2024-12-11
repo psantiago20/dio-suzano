@@ -45,6 +45,7 @@ SELECT CONCAT (e.Fname, ' ', e.Minit, ' ', e.Fname) AS Funcionario,
 14. Explique por que, neste caso supracitado, podemos apenas utilizar o mesclar e não o atribuir. ✓
 
 _R: Mesclar serve para unir colunas de duas tabelas._
+<br>
 15. Agrupe os dados a fim de saber quantos colaboradores existem por gerente ✓
 
 ```
