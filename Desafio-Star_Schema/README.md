@@ -21,4 +21,4 @@ Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O f
 <br>
 <br>
 ## Projeto Aula
-![Diagrama](star_schema.png)
+![Diagrama](Star_Schema.png)
