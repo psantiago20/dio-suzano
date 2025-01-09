@@ -17,7 +17,7 @@ Por fim, mas não menos importante, adicione uma tabela dimensão de datas. Para
 Ex: data de oferta das disciplinas, data de oferta dos cursos, entre outros. O formato, ou melhor, a granularidade, não está fixada. Podem ser utilizados diferentes formatos que correspondem a diferentes níveis de granularidade.
 <br>
 ## Projeto Base
-![Diagrama](star_schema_base.png)
+![Diagrama_base](star_schema_base.png)
 <br>
 <br>
 ## Projeto Aula
